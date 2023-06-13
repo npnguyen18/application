@@ -1,2 +1,1 @@
 This is fileA
-This is a change to the file
